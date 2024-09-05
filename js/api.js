@@ -18,7 +18,7 @@ const spaces = {
     instantmesh: {
         label: "InstantMesh",
         api: "TencentARC/InstantMesh",
-        url: "https://huggingface.co/spaces/TencentARC/InstantMesh",
+        url: "https://huggingface.co/stabilityai/stable-fast-3d",
         type: "mesh_builder"
     }
 }
