@@ -6,7 +6,7 @@ const spaces = {
     sd3m: {
         label: "Stable Diffusion 3 Medium",
         api: "stabilityai/stable-diffusion-3-medium",
-        url: "https://huggingface.co/spaces/stabilityai/stable-diffusion-3-medium",
+        url: "https://huggingface.co/spaces/stabilityai/stable-diffusion-3.5-large",
         type: "image_sampler"
     },
     sdxl: {
